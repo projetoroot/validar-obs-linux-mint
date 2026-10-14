@@ -28,7 +28,6 @@ A ferramenta foi criada para ajudar a entender problemas de configuração e sin
 - [Solução de problemas](#solução-de-problemas)
 - [Estrutura do projeto](#estrutura-do-projeto)
 - [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Objetivo do projeto
 
@@ -468,9 +467,7 @@ Contribuições são bem-vindas. Antes de abrir uma issue, informe, quando poss�
 
 Remova chaves, credenciais, caminhos privados e outras informações sensíveis antes de publicar logs. Para mudanças no código, procure manter a auditoria somente de leitura, limitar a coleta ao necessário e documentar quando novos comandos ou diretórios forem consultados.
 
-## Licença
 
-Este projeto é distribuído sob a licença **MIT**. Consulte o arquivo `copyright` incluído no pacote Debian ou a cópia da licença no repositório para ver o texto completo e os termos aplicáveis.
 
 ## Aviso
 

@@ -7,7 +7,6 @@ A ferramenta foi criada para ajudar a entender problemas de configuração e sin
 > **Versão documentada:** 1.1.0  
 > **Interface:** GTK 3  
 > **Idioma da interface e dos relatórios:** português brasileiro  
-> **Licença:** MIT
 
 ## Conteúdo
 
